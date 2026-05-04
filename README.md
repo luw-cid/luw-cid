@@ -22,15 +22,15 @@
   <a href="mailto:dhoang1234sp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/hoangcoderr/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/hoangcoderr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.facebook.com/hoangkev1n" target="_blank">
+  </a> -->
+  <a href="https://www.facebook.com/pl.luwci/" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-       <a href=https://www.tiktok.com/@hoangcoderr" target="_blank">
+       <a href=https://www.tiktok.com/@luw.cid" target="_blank">
      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
        <a href="https://www.youtube.com/@hoangcoderr">
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <!-- <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> -->
   </a>
 </div>
 
