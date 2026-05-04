@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hoangcoderr.hoangcoderr" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dao+Nguyen+Hoang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pham+Tien+Luc!;" />
 </h1>
 
 <h3 align="center">A sophomore studying software engineering at TDTUㅤᴠɪᴇ</h3>
@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **Ton Duc Thang University**
  
- 🌱 I’m currently learning **Discrete mathematics, Software engineering, Web programming**
+ 🌱 I’m currently learning **Federated Learning, Software engineering, Web programming**
 
 ⚡ Fun fact : **The first computer virus, "Creeper," was created in 1971 and simply displayed the message, "I'm the creeper: catch me if you can."**
 
