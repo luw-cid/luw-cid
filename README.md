@@ -73,7 +73,7 @@ I
 
 <div align="center">
 <a href='https://nhantien.momo.vn/0854975357' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://raw.githubusercontent.com/luw-cid/luw-cid/main/z5567468004892_d714aaaea30752790e4fa4d80d1814d9.jpg' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://badge.bankhub.dev/status.svg?serviceName=vietcombank-digibank-web-personal&style=for-the-badge' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://raw.githubusercontent.com/luw-cid/luw-cid/main/qrcodebaking-ptl.jpg' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://badge.bankhub.dev/status.svg?serviceName=vietcombank-digibank-web-personal&style=for-the-badge' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
